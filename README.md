@@ -18,7 +18,7 @@
 
 ### Atualmente
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_Power_Platform_logo.svg&psig=AOvVaw1IHtxGKHlKe0m0_R5jKMqf&ust=1729198730502000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCug67lk4kDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/512px-Microsoft_Power_Platform_logo.svg.png?20231122081707)" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/512px-Microsoft_Power_Platform_logo.svg.png?20231122081707" width="60" height="60"/>
 
 ### Front-end
 <div>
