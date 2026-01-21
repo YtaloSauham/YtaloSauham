@@ -1,4 +1,4 @@
-# Olá!👋 Eu sou Ytalo Sauham , desenvolvedor Front-end com conhecimentos de Back-end.
+# Olá!👋 Eu sou Ytalo Sauham.
 
 <div>
 
